@@ -6,4 +6,6 @@ public class SetUp {
     //more lines added
 
     //trying to commit more changes to learn better
+
+    //life is good
 }
