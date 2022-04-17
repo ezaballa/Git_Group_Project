@@ -8,7 +8,17 @@ public class SetUp {
     //Hello World
 
     // Happy Saturday
+//<<<<<<< Michael
     // wednesday
     // 123456789
+//<<<<<<< Carlos
     // Happy Easter
+//=======
+
+    // awesome
+//=======
+
+    // Testing
+//>>>>>>> master
+//>>>>>>> master
 }
