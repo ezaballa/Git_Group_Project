@@ -5,7 +5,15 @@ public class SetUp {
 
     //more lines added
 
+//<<<<<<< irem
     //trying to commit more changes to learn better
 
     //life is good
+//=======
+    //Hello World
+
+    // Happy Saturday
+    // wednesday
+    // 123456789
+//>>>>>>> develop
 }
